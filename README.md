@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am from Ukraine. I have lived in Poland for 4 years.
-I am looking for a job position JavaScript Developer.
+I am looking for a job as a JavaScript Developer.
 
 ###  My stack
 
