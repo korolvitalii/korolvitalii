@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am looking for a job as a JavaScript Developer.
-
 ###  My stack
 
 - JavaScript
