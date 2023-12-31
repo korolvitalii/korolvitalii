@@ -3,20 +3,24 @@
 ###  My stack
 
 - JavaScript
-- ReactJS
-- AngularJS
-- TypeScript
+- Java
+- Typescript
+- Angular
+- Ionic
+- Spring Boot
+- NodeJS
 
 
 
 
 
-[![React badge](https://img.shields.io/badge/React-user-61DBFB.svg)](https://pl.reactjs.org/) <br>
+[![JavaScript badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Angular badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Ionic badge](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](https://ionicframework.com/)
 [![TS badge](https://img.shields.io/badge/Typescript-user-007ACC.svg)](https://www.typescriptlang.org/) <br>
 [![Node.js badge](https://img.shields.io/badge/Node-user-68A063.svg)](https://nodejs.org/en/) <br>
 
 <!--
-**korolvitalii/korolvitalii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
