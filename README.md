@@ -3,11 +3,9 @@
 ###  My stack
 
 - JavaScript
-- Java
 - Typescript
 - Angular
 - Ionic
-- Spring Boot
 - NodeJS
 
 
